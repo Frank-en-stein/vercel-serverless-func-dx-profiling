@@ -1,0 +1,11 @@
+{
+    "functions": {
+      "app/route.ts": {
+        "maxDuration": 10,
+        "memory": 1024,
+        "includeFiles": "assets/**",
+        "excludeFiles": "test/**"
+      }
+    }
+}
+  
